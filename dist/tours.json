@@ -1,0 +1,507 @@
+[
+  {
+    "slug": "5-day-sri-lanka-highlights",
+    "title": "5-Day Sri Lanka Highlights",
+    "theme": "Culture, Mountains & Coast",
+    "days": 5,
+    "nights": 4,
+    "img": "sigiriya",
+    "intro": "Discover the highlights of Sri Lanka on a private 5-day journey through ancient heritage, beautiful mountains, tea country and the tropical south coast.",
+    "audience": "A great choice for first-time visitors who want to experience Sri Lanka’s culture, nature and scenery in a short time.",
+    "included": [
+      "Private air-conditioned vehicle",
+      "Professional English-speaking driver",
+      "Fuel",
+      "Expressway charges",
+      "Parking fees",
+      "Bottled water",
+      "Airport pickup & drop-off"
+    ],
+    "excluded": [
+      "Hotel accommodation",
+      "Entrance tickets",
+      "Safari fees",
+      "Meals",
+      "Personal expenses",
+      "Tips"
+    ],
+    "plan": [
+      {
+        "title": "Colombo / Negombo",
+        "description": "Airport pickup and explore Colombo or the relaxed coastal town of Negombo.",
+        "places": [
+          "colombo",
+          "negombo"
+        ]
+      },
+      {
+        "title": "Sigiriya & Dambulla",
+        "description": "Visit the ancient Sigiriya Rock Fortress and explore the beautiful Dambulla Cave Temple.",
+        "places": [
+          "sigiriya",
+          "dambulla"
+        ]
+      },
+      {
+        "title": "Kandy",
+        "description": "Travel to Kandy and discover the Temple of the Sacred Tooth Relic, Kandy Lake and the surrounding hills.",
+        "places": [
+          "kandy"
+        ]
+      },
+      {
+        "title": "Nuwara Eliya & Ella",
+        "description": "Enjoy scenic mountain roads, waterfalls and tea plantations before continuing to Ella.",
+        "places": [
+          "nuwara-eliya",
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella & South Coast",
+        "description": "Visit the famous Nine Arch Bridge and enjoy the beautiful scenery before travelling towards the southern beaches.",
+        "places": [
+          "ella"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "7-day-sri-lanka-adventure",
+    "title": "7-Day Sri Lanka Adventure",
+    "theme": "Culture, Wildlife & Beaches",
+    "days": 7,
+    "nights": 6,
+    "img": "ella",
+    "intro": "Experience the perfect combination of Sri Lanka’s ancient culture, misty mountains, tea plantations, wildlife and tropical beaches.",
+    "audience": "Perfect for couples, solo travellers and small groups looking for a balanced Sri Lankan adventure.",
+    "included": [
+      "Private air-conditioned vehicle",
+      "Professional English-speaking driver",
+      "Fuel",
+      "Expressway charges",
+      "Parking fees",
+      "Bottled water",
+      "Airport transfers"
+    ],
+    "excluded": [
+      "Hotel accommodation",
+      "Entrance tickets",
+      "Safari fees",
+      "Meals",
+      "Personal expenses",
+      "Tips"
+    ],
+    "plan": [
+      {
+        "title": "Colombo / Negombo",
+        "description": "Airport pickup and coastal sightseeing.",
+        "places": [
+          "colombo",
+          "negombo"
+        ]
+      },
+      {
+        "title": "Sigiriya & Dambulla",
+        "description": "Sigiriya Rock Fortress and Dambulla Cave Temple.",
+        "places": [
+          "sigiriya",
+          "dambulla"
+        ]
+      },
+      {
+        "title": "Kandy",
+        "description": "Temple of the Sacred Tooth Relic, Kandy Lake and city sightseeing.",
+        "places": [
+          "kandy"
+        ]
+      },
+      {
+        "title": "Nuwara Eliya",
+        "description": "Scenic drive through the tea country and visit a tea plantation.",
+        "places": [
+          "nuwara-eliya"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "Explore Ella, including waterfalls, viewpoints and the famous Nine Arch Bridge.",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Wildlife Safari",
+        "description": "Enjoy an exciting safari at Yala or Udawalawe National Park.",
+        "places": [
+          "yala",
+          "udawalawe"
+        ]
+      },
+      {
+        "title": "South Coast",
+        "description": "Visit Mirissa, Weligama and Galle before your journey ends.",
+        "places": [
+          "mirissa",
+          "weligama",
+          "galle"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "10-day-ultimate-sri-lanka",
+    "title": "10-Day Ultimate Sri Lanka Experience",
+    "theme": "Culture, Nature & Coast",
+    "days": 10,
+    "nights": 9,
+    "img": "galle",
+    "intro": "From ancient kingdoms and sacred temples to misty mountains, wildlife and tropical beaches, this 10-day journey gives you a wonderful taste of Sri Lanka.",
+    "audience": "A perfect choice for travellers who want to experience culture, nature, wildlife, mountains and beaches in one unforgettable journey.",
+    "included": [
+      "Private air-conditioned vehicle",
+      "Professional English-speaking driver",
+      "Fuel",
+      "Expressway charges",
+      "Parking fees",
+      "Bottled water",
+      "Airport transfers"
+    ],
+    "excluded": [
+      "Hotel accommodation",
+      "Entrance tickets",
+      "Safari fees",
+      "Meals",
+      "Personal expenses",
+      "Tips",
+      "Train tickets"
+    ],
+    "plan": [
+      {
+        "title": "Negombo / Colombo",
+        "description": "Arrival, airport pickup and coastal sightseeing.",
+        "places": [
+          "negombo",
+          "colombo"
+        ]
+      },
+      {
+        "title": "Sigiriya & Dambulla",
+        "description": "Explore Sigiriya Rock Fortress and Dambulla Cave Temple.",
+        "places": [
+          "sigiriya",
+          "dambulla"
+        ]
+      },
+      {
+        "title": "Kandy",
+        "description": "Discover Kandy and the Temple of the Sacred Tooth Relic.",
+        "places": [
+          "kandy"
+        ]
+      },
+      {
+        "title": "Nuwara Eliya",
+        "description": "Travel through the beautiful tea country and visit a tea plantation.",
+        "places": [
+          "nuwara-eliya"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "Enjoy Ella’s spectacular mountain scenery and visit the Nine Arch Bridge.",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "A relaxed day to explore Ella, waterfalls, viewpoints and local experiences.",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Wildlife Safari",
+        "description": "Travel towards Yala or Udawalawe and enjoy a wildlife safari.",
+        "places": [
+          "yala",
+          "udawalawe"
+        ]
+      },
+      {
+        "title": "South Coast",
+        "description": "Continue towards Hiriketiya or Mirissa and enjoy the beach.",
+        "places": [
+          "hiriketiya",
+          "mirissa"
+        ]
+      },
+      {
+        "title": "Galle",
+        "description": "Explore historic Galle Fort and enjoy the beautiful southern coastline.",
+        "places": [
+          "galle"
+        ]
+      },
+      {
+        "title": "Galle → Colombo",
+        "description": "Relaxed journey back to Colombo or airport transfer.",
+        "places": [
+          "galle",
+          "colombo"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "10-day-beaches-and-adventure",
+    "title": "10-Day Sri Lanka Beaches & Adventure",
+    "theme": "Surfing, Mountains & Wildlife",
+    "days": 10,
+    "nights": 9,
+    "img": "ella",
+    "intro": "A specially designed journey for travellers who love beaches, surfing, mountains, wildlife and adventure.",
+    "audience": "Perfect for surfers, couples, young travellers and adventure lovers.",
+    "included": [
+      "Private air-conditioned vehicle",
+      "Professional English-speaking driver",
+      "Fuel",
+      "Expressway charges",
+      "Parking fees",
+      "Bottled water"
+    ],
+    "excluded": [
+      "Hotel accommodation",
+      "Entrance tickets",
+      "Safari",
+      "Surfing activities",
+      "Meals",
+      "Personal expenses",
+      "Tips"
+    ],
+    "plan": [
+      {
+        "title": "Colombo / Negombo",
+        "description": "",
+        "places": [
+          "colombo",
+          "negombo"
+        ]
+      },
+      {
+        "title": "Sigiriya & Dambulla",
+        "description": "",
+        "places": [
+          "sigiriya",
+          "dambulla"
+        ]
+      },
+      {
+        "title": "Kandy",
+        "description": "",
+        "places": [
+          "kandy"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "Hiking & sightseeing.",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella → Arugam Bay",
+        "description": "",
+        "places": [
+          "ella",
+          "arugam-bay"
+        ]
+      },
+      {
+        "title": "Arugam Bay",
+        "description": "Surfing & beach time.",
+        "places": [
+          "arugam-bay"
+        ]
+      },
+      {
+        "title": "Yala / Udawalawe Safari",
+        "description": "",
+        "places": [
+          "yala",
+          "udawalawe"
+        ]
+      },
+      {
+        "title": "Hiriketiya / Mirissa",
+        "description": "",
+        "places": [
+          "hiriketiya",
+          "mirissa"
+        ]
+      },
+      {
+        "title": "Galle & South Coast",
+        "description": "",
+        "places": [
+          "galle"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "14-day-grand-sri-lanka",
+    "title": "14-Day Grand Sri Lanka Tour",
+    "theme": "Complete Island Experience",
+    "days": 14,
+    "nights": 13,
+    "img": "sigiriya",
+    "intro": "Take your time to discover the many sides of Sri Lanka — ancient cities, temples, tea plantations, mountains, wildlife, surfing beaches and the beautiful southern coast.",
+    "audience": "A complete Sri Lankan journey for travellers who want to explore the island at a comfortable pace.",
+    "included": [
+      "Private air-conditioned vehicle",
+      "Professional English-speaking driver",
+      "Fuel",
+      "Expressway charges",
+      "Parking fees",
+      "Bottled water",
+      "Airport transfers"
+    ],
+    "excluded": [
+      "Hotel accommodation",
+      "Entrance fees",
+      "Safari fees",
+      "Meals",
+      "Activity fees",
+      "Personal expenses",
+      "Tips"
+    ],
+    "experiences": [
+      "Ancient cities",
+      "Temples & culture",
+      "Tea plantations",
+      "Mountains & hiking",
+      "Wildlife safari",
+      "Surfing",
+      "Tropical beaches",
+      "Local Sri Lankan experiences"
+    ],
+    "plan": [
+      {
+        "title": "Negombo",
+        "description": "",
+        "places": [
+          "negombo"
+        ]
+      },
+      {
+        "title": "Anuradhapura",
+        "description": "",
+        "places": [
+          "anuradhapura"
+        ]
+      },
+      {
+        "title": "Sigiriya & Dambulla",
+        "description": "",
+        "places": [
+          "sigiriya",
+          "dambulla"
+        ]
+      },
+      {
+        "title": "Polonnaruwa & Minneriya",
+        "description": "",
+        "places": [
+          "polonnaruwa",
+          "minneriya"
+        ]
+      },
+      {
+        "title": "Kandy",
+        "description": "",
+        "places": [
+          "kandy"
+        ]
+      },
+      {
+        "title": "Kandy → Nuwara Eliya",
+        "description": "",
+        "places": [
+          "kandy",
+          "nuwara-eliya"
+        ]
+      },
+      {
+        "title": "Nuwara Eliya → Ella",
+        "description": "",
+        "places": [
+          "nuwara-eliya",
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella",
+        "description": "",
+        "places": [
+          "ella"
+        ]
+      },
+      {
+        "title": "Ella → Arugam Bay",
+        "description": "",
+        "places": [
+          "ella",
+          "arugam-bay"
+        ]
+      },
+      {
+        "title": "Arugam Bay",
+        "description": "",
+        "places": [
+          "arugam-bay"
+        ]
+      },
+      {
+        "title": "Yala / Udawalawe Safari",
+        "description": "",
+        "places": [
+          "yala",
+          "udawalawe"
+        ]
+      },
+      {
+        "title": "Hiriketiya / Mirissa",
+        "description": "",
+        "places": [
+          "hiriketiya",
+          "mirissa"
+        ]
+      },
+      {
+        "title": "Galle Fort & South Coast",
+        "description": "",
+        "places": [
+          "galle"
+        ]
+      },
+      {
+        "title": "Galle → Colombo",
+        "description": "",
+        "places": [
+          "galle",
+          "colombo"
+        ]
+      }
+    ]
+  }
+]
