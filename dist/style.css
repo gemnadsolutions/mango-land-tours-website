@@ -132,7 +132,7 @@
 }
 @media(max-width:700px){
   header{height:80px}.brand-logo{width:155px;height:55px}nav{top:80px;border-radius:0 0 18px 18px;box-shadow:0 15px 30px rgba(20,50,35,.12)}
-  .hero{min-height:930px;border-radius:22px}.hero-layout{padding:55px 6% 100px}.hero-content{padding:0}.hero h1{font-size:48px}.tour-finder{padding:23px}.tour-finder h2{font-size:28px}
+  .hero{min-height:930px;border-radius:22px}.hero-layout{padding:55px 6% 100px;row-gap:32px}.hero-content{padding:0}.hero h1{font-size:48px}.tour-finder{padding:23px}.tour-finder h2{font-size:28px}
   .hero-bottom .location{display:none}.hero-bottom{justify-content:center}
   .intro{padding-top:75px}.island-collage{height:480px;grid-template-columns:1fr 1fr;grid-template-rows:1.25fr .75fr}.island-collage .collage-main{grid-column:1/3;grid-row:1}
   .destination-grid{grid-template-columns:1fr;grid-auto-rows:310px}.destination-large,.destination-wide{grid-column:span 1;grid-row:span 1}
